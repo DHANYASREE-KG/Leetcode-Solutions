@@ -13,4 +13,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
+## Math
+|  |
+| ------- |
+| [2651-calculate-delayed-arrival-time](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/2651-calculate-delayed-arrival-time) |
 <!---LeetCode Topics End-->
