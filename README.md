@@ -17,9 +17,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [2651-calculate-delayed-arrival-time](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/2651-calculate-delayed-arrival-time) |
 ## Array
 |  |
 | ------- |
 | [1528-shuffle-string](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/1528-shuffle-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
