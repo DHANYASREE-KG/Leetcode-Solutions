@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
+| [1518-water-bottles](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/1518-water-bottles) |
 | [2651-calculate-delayed-arrival-time](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/2651-calculate-delayed-arrival-time) |
 ## Array
 |  |
@@ -45,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+## Simulation
+|  |
+| ------- |
+| [1518-water-bottles](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/1518-water-bottles) |
 <!---LeetCode Topics End-->
