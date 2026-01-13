@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1528-shuffle-string](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/1528-shuffle-string) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Math
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [1528-shuffle-string](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/1528-shuffle-string) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -48,8 +50,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Simulation
 |  |
 | ------- |
 | [1518-water-bottles](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/1518-water-bottles) |
+## Sorting
+|  |
+| ------- |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+## Quickselect
+|  |
+| ------- |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 <!---LeetCode Topics End-->
