@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [1528-shuffle-string](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/1528-shuffle-string) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Heap (Priority Queue)
 |  |
