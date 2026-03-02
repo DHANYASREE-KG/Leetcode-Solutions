@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [1528-shuffle-string](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/1528-shuffle-string) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Simulation
 |  |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Heap (Priority Queue)
 |  |
@@ -88,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/0169-majority-element) |
 ## Stack
 |  |
 | ------- |
@@ -100,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1668-maximum-repeating-substring](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/1668-maximum-repeating-substring) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
