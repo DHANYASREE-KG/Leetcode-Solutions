@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/1528-shuffle-string) |
 | [1668-maximum-repeating-substring](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/1668-maximum-repeating-substring) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2418-sort-the-people](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/2418-sort-the-people) |
 ## Math
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/1528-shuffle-string) |
 | [1920-build-array-from-permutation](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2418-sort-the-people](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/2418-sort-the-people) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2418-sort-the-people](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/2418-sort-the-people) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
+| [2418-sort-the-people](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/2418-sort-the-people) |
 ## Stack
 |  |
 | ------- |
