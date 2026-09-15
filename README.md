@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/1528-shuffle-string) |
 | [1668-maximum-repeating-substring](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/1668-maximum-repeating-substring) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2351-first-letter-to-appear-twice](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2418-sort-the-people](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/2418-sort-the-people) |
 ## Math
 |  |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0461-hamming-distance](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/0461-hamming-distance) |
+| [2351-first-letter-to-appear-twice](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
+| [2351-first-letter-to-appear-twice](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2418-sort-the-people](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/2418-sort-the-people) |
 ## Stack
 |  |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
+| [2351-first-letter-to-appear-twice](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Counting Sort
 |  |
 | ------- |
