@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1528-shuffle-string](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/1528-shuffle-string) |
 | [1668-maximum-repeating-substring](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/1668-maximum-repeating-substring) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0451-sort-characters-by-frequency](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0977-squares-of-a-sorted-array](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Quickselect
 |  |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [2351-first-letter-to-appear-twice](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
@@ -145,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1512-number-of-good-pairs](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [2351-first-letter-to-appear-twice](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Counting Sort
@@ -162,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
