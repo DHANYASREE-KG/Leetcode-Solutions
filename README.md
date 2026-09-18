@@ -181,4 +181,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
