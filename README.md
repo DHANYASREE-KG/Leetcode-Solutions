@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/1528-shuffle-string) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1920-build-array-from-permutation](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [1668-maximum-repeating-substring](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/1668-maximum-repeating-substring) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/DHANYASREE-KG/Leetcode-Solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Recursion
 |  |
 | ------- |
